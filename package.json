@@ -1,0 +1,22 @@
+{
+  "name": "stringkalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimi95/Stringkalk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimi95/Stringkalk/issues"
+  },
+  "homepage": "https://github.com/Dimi95/Stringkalk#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
